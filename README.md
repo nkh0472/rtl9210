@@ -60,7 +60,7 @@ The table below lists all known firmware versions available in this git reposito
 | 1.33.98.090324       | ❓          | ❌          | ✅        | ❓        | ❓           | ❓ | [Download](firmware/realtek_rtl9210B_fw%20(Version%201.33.98.090324).zip)         |
 | 1.34.29.011325       | ❓          | ❌          | ✅        | ❓        | ❓           | ❓ | [Download](firmware/realtek_rtl9210B_fw1.34.29(station-drivers.com).zip)          |
 | 1.34.39.032625       | ❓          | ❌          | ✅        | ❓        | ❓           | ❓ | [Download](firmware/realtek_rtl9210B_fw1.34.39(station-drivers.com).zip)          |
-| 9.34.74.091125       | ❓          | ❓          | ❓        | ❓        | ✅           | ✅ | [Download](firmware/realtek_rtl9210C_fw (Version 9.34.74.091125).zip)             |
+| 9.34.74.091125       | ❓          | ❓          | ❓        | ❓        | ✅           | ✅ | [Download](firmware/realtek_rtl9210C_fw%20(Version%209.34.74.091125).zip)         |
 
 ## Chipset List
 
