@@ -8,6 +8,7 @@ Don't hesitate to support [station-drivers.com](https://www.station-drivers.com)
 
 ## Table of Contents
 
+- [Warning](#warning)
 - [Firmware](#firmware)
 - [Chipset List](#chipset-list)
 - [Files and Folders](#files-and-folders)
@@ -19,6 +20,10 @@ Don't hesitate to support [station-drivers.com](https://www.station-drivers.com)
 - [Firmware changelog](#firmware-changelog)
 - [Contribute](#contribute)
 - [Sources](#sources)
+
+## Warning
+
+It cannot be emphasized strongly enough that a **device running firmware version v1.32.87 in conjunction with an RTL9210B could put your data at risk** due to instabilities at the USB protocol level. __An update to at least v1.33.44 is therefore considered absolutely necessary__.
 
 ## Firmware
 
